@@ -1,0 +1,17 @@
+.DataTable {
+    border: 1px solid #0080FF;
+    width: 100%;
+    padding: .3rem;
+}
+
+.DataTable tr {
+    height: 2.2rem;
+}
+
+.DataTable thead th {
+    text-align: left;
+}
+
+.DataTable tbody tr {
+    border-top: 1px solid #000
+}

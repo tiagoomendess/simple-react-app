@@ -37,3 +37,8 @@ body {
     width: 100%;
 }
 
+.Footer {
+    display: flex;
+    justify-content: right;
+}
+
